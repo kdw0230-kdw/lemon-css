@@ -15,7 +15,7 @@ $(document).ready(function(){
         }
          var vdsBack=document.getElementById('vdsBack');
         if(vdsBack){
-            vdsBack.src='https://vod.plaync.com/LineageW/Introduction/3_6_Giran.mp4';
+            vdsBack.src='https://cdn.jsdelivr.net/gh/kdw0230-kdw/lemon-css@main/lemon_main.mp4';
             document.getElementById('vdBack').load();
         }
     }
