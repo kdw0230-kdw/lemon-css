@@ -13,10 +13,10 @@ $(document).ready(function(){
             vds.src='https://vod.plaync.com/LineageW/Introduction/3_6_Giran.mp4';
             document.getElementById('vd').load();
         }
+    }
          var vdsBack=document.getElementById('vdsBack');
         if(vdsBack){
             vdsBack.src='https://cdn.jsdelivr.net/gh/kdw0230-kdw/lemon-css@main/lemon_main_bg.mp4';
             document.getElementById('vdBack').load();
         }
-    }
 });
