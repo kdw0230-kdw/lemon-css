@@ -15,7 +15,7 @@ $(document).ready(function(){
         }
          var vdsBack=document.getElementById('vdsBack');
         if(vdsBack){
-            vdsBack.src='https://cdn.jsdelivr.net/gh/kdw0230-kdw/lemon-css@main/lemon_main.mp4';
+            vdsBack.src='https://cdn.jsdelivr.net/gh/kdw0230-kdw/lemon-css@main/lemon_main_bg.mp4';
             document.getElementById('vdBack').load();
         }
     }
